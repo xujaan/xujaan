@@ -1,5 +1,5 @@
 <img align="right" src="https://media.giphy.com/media/TiyTLCEjvj8o37DaLz/giphy.gif"/>
-<img align="right" width="200px" src="https://skullsinthestars.files.wordpress.com/2007/12/sinewave.gif?w=640"/>
+<img align="right" width="150px" src="https://skullsinthestars.files.wordpress.com/2007/12/sinewave.gif?w=640"/>
 
 ![](https://komarev.com/ghpvc/?username=xujaan&style=flat-square)
 
